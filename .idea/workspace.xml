@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3742d5c2-834e-4521-b085-920f75fbe483" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MicrovilleApp" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ezcxDHAKdFrYDBf0D9HCnf3AQq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/java/diogomoreira/microvilleApp/Controllers" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringHibernateMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diogomoreira.microvilleApp.Main" />
+      <module name="MicrovilleApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="diogomoreira.microvilleApp.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringHibernateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diogomoreira.microvilleApp.SpringHibernateMain" />
+      <module name="MicrovilleApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="diogomoreira.microvilleApp.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diogomoreira.microvilleApp.test" />
+      <module name="MicrovilleApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="diogomoreira.microvilleApp.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringHibernateMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3742d5c2-834e-4521-b085-920f75fbe483" name="Default Changelist" comment="" />
+      <created>1595328105669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595328105669</updated>
+      <workItem from="1595328107178" duration="18718000" />
+      <workItem from="1595372441063" duration="31739000" />
+      <workItem from="1595691380372" duration="624000" />
+      <workItem from="1595692217319" duration="3205000" />
+      <workItem from="1595758643340" duration="106000" />
+      <workItem from="1595758763691" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Deployment" timestamp="1595609315192">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1595609315192" />
+    <state x="240" y="86" key="#Project_Structure" timestamp="1595710702688">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1595370326896" />
+    <state x="240" y="86" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1595710702688" />
+    <state x="240" y="65" key="#Servers" timestamp="1595609850073">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Servers/0.0.1280.800@0.0.1280.800" timestamp="1595609850073" />
+    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1595459677074">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1595459677074" />
+    <state x="453" y="119" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1595344314667" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom" timestamp="1595690671797">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1595690671797" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595372244736" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center" timestamp="1595690671796">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1595690671796" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1595372244735" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left" timestamp="1595690671795">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1595690671795" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1595372244735" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right" timestamp="1595690671797">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1595690671797" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1595372244736" />
+    <state x="128" y="23" width="1024" height="777" key="SettingsEditor" timestamp="1595692400990">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="23" width="1024" height="777" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1595692400990" />
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1595357042629" />
+    <state x="305" y="104" width="670" height="697" key="search.everywhere.popup" timestamp="1595692351818">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="104" width="670" height="697" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1595692351818" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1595366863365" />
+    <state x="281" y="91" key="spring file set editor" timestamp="1595587767581">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="281" y="91" key="spring file set editor/0.0.1280.800@0.0.1280.800" timestamp="1595587767581" />
+  </component>
+</project>
